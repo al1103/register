@@ -1,11 +1,13 @@
 {
+    "description": "Personal blog and porfolio",
+    "repo": "https://github.com/dandepan303/frosti",
     "owner": {
         "username": "dandepan303",
         "email": "dandepan303@gmail.com"
     },
     "record": {
-        "A": ["217.174.245.249"],
-        "MX": ["hosts.is-a.dev"],
-        "TXT": "v=spf1 a mx ip4:217.174.245.249 ~all"
+        "A": [
+            "75.2.60.5"
+        ]
     }
 }
